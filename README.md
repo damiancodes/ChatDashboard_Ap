@@ -1,8 +1,8 @@
-# 🐝 Buzzing Chat
+#  Buzzing Chat
 
 A real-time chat application built with React, Node.js, and WebSocket technology featuring a Bumble-inspired design.
 
-## ✨ Features
+##  Features
 
 - **Real-time Messaging**: Instant message delivery using WebSocket connections
 - **Typing Indicators**: See when other users are typing
@@ -28,7 +28,7 @@ A real-time chat application built with React, Node.js, and WebSocket technology
 - **WebSocket (ws)** - WebSocket server
 - **CORS** - Cross-origin resource sharing
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 buzzing-chat/
@@ -52,7 +52,7 @@ buzzing-chat/
 └── README.md              # Project documentation
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -82,7 +82,7 @@ buzzing-chat/
    - Backend API: http://localhost:5000
    - WebSocket: ws://localhost:5000/ws
 
-## 📜 Available Scripts
+##  Available Scripts
 
 | Script | Description |
 |--------|-------------|
@@ -109,7 +109,7 @@ The application uses the following environment variables:
 - **Frontend Dev Server**: 3000
 - **WebSocket**: 5000/ws
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 
@@ -125,7 +125,7 @@ The application uses a Bumble-inspired color scheme:
 - **Font Family**: Inter (Google Fonts)
 - **Weights**: 400, 500, 600, 700
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### REST API
 
@@ -149,7 +149,7 @@ The application uses a Bumble-inspired color scheme:
 3. **Start typing** in one window to see typing indicators in others
 4. **Send messages** to see real-time updates across all windows
 
-## 🚀 Deployment
+##  Deployment
 
 ### Production Build
 
@@ -176,20 +176,20 @@ EXPOSE 5000
 CMD ["npm", "start"]
 ```
 
-## 📝 Assignment Requirements
+##  Assignment Requirements
 
 This project fulfills the following requirements:
 
-- ✅ **Real-time chat functionality** with WebSocket
-- ✅ **Typing indicators** for enhanced UX
-- ✅ **Bumble-inspired design** with yellow/black theme
-- ✅ **Multi-user simulation** with user selection
-- ✅ **Professional code structure** with proper organization
-- ✅ **Required keywords**: `define-ocg` and `varOcg` variables
-- ✅ **Modern tech stack**: React, Node.js, WebSocket
-- ✅ **Responsive design** for mobile and desktop
+-  **Real-time chat functionality** with WebSocket
+-  **Typing indicators** for enhanced UX
+-  **Bumble-inspired design** with yellow/black theme
+-  **Multi-user simulation** with user selection
+-  **Professional code structure** with proper organization
+-  **Required keywords**: `define-ocg` and `varOcg` variables
+-  **Modern tech stack**: React, Node.js, WebSocket
+-  **Responsive design** for mobile and desktop
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -201,7 +201,7 @@ This project fulfills the following requirements:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Bumble for design inspiration
 - React and Node.js communities
@@ -209,4 +209,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by the TaskMaster Team**
+**Built with ❤ by the TaskMaster Team**
