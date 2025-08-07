@@ -2,7 +2,8 @@
 
 A real-time chat application built with React, Node.js, and WebSocket technology featuring a Bumble-inspired design.
 
-https://res.cloudinary.com/dzs0hdqhd/image/upload/v1754527238/chatdashimage_nbvrjm.png
+![Homepage](https://res.cloudinary.com/dzs0hdqhd/image/upload/v1754527238/chatdashimage_nbvrjm.png)
+
 
 ##  Features
 
