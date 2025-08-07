@@ -16,7 +16,7 @@ A real-time chat application built with React, Node.js, and WebSocket technology
 - **Connection Status**: Real-time connection indicator
 - **Message History**: Persistent message storage with initial sample messages
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks
