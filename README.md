@@ -145,7 +145,7 @@ The application uses a Bumble-inspired color scheme:
 | `typing` | User typing indicator |
 | `initial_messages` | Initial message history |
 
-## 🧪 Testing Multi-user Functionality
+##  Testing Multi-user Functionality
 
 1. **Open multiple browser windows/tabs**
 2. **Select different users** from the dropdown in each window
@@ -200,7 +200,7 @@ This project fulfills the following requirements:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
