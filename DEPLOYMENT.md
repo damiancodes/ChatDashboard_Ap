@@ -1,14 +1,14 @@
-# 🚀 Deployment Guide
+ Deployment Guide
 
 This guide provides step-by-step instructions for deploying the Buzzing Chat application in various environments.
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - **Node.js**: Version 18.0.0 or higher
 - **npm**: Version 8.0.0 or higher
 - **Git**: For version control (optional)
 
-## 🏠 Local Development Deployment
+##  Local Development Deployment
 
 ### Quick Start
 
@@ -45,7 +45,7 @@ This guide provides step-by-step instructions for deploying the Buzzing Chat app
    npm run client
    ```
 
-## 🏭 Production Deployment
+## Production Deployment
 
 ### Method 1: Direct Deployment
 
@@ -81,7 +81,7 @@ chmod +x scripts/deploy.sh
 node build.js
 ```
 
-## 🐳 Docker Deployment
+##  Docker Deployment
 
 ### Using Docker Compose (Recommended)
 
@@ -186,7 +186,7 @@ client/dist/
     └── index-[hash].js  # Minified JS (60.71 kB gzipped)
 ```
 
-## 🔍 Health Checks
+##  Health Checks
 
 ### API Health Check
 ```bash
@@ -199,7 +199,7 @@ curl http://localhost:5000/api/messages
 wscat -c ws://localhost:5000/ws
 ```
 
-## 🚨 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -258,7 +258,7 @@ docker-compose logs -f
 - **WebSocket**: Real-time communication
 - **Tailwind CSS**: Optimized CSS framework
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 ### Production Checklist
 - [ ] Environment variables configured
@@ -273,7 +273,7 @@ The application includes basic security headers:
 - Content-Type validation
 - Input sanitization
 
-## 📈 Monitoring and Maintenance
+##  Monitoring and Maintenance
 
 ### Health Monitoring
 - Application responds to `/api/messages`
@@ -286,7 +286,7 @@ The application includes basic security headers:
 - Performance monitoring
 - Backup strategies (if using database)
 
-## 🎯 Deployment Checklist
+##  Deployment Checklist
 
 ### Pre-Deployment
 - [ ] All tests passing
@@ -302,7 +302,7 @@ The application includes basic security headers:
 - [ ] Error handling working
 - [ ] Performance acceptable
 
-## 📞 Support
+## Support
 
 For deployment issues:
 1. Check the troubleshooting section
@@ -312,4 +312,4 @@ For deployment issues:
 
 ---
 
-**Happy Deploying! 🚀**
+**Happy Deploying! **
